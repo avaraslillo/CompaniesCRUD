@@ -1,0 +1,6 @@
+# VS Code
+.vscode/
+
+# Otros archivos
+*.txt
+*.zip
